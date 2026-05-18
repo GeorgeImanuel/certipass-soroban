@@ -117,13 +117,13 @@ Language            : Rust
 
 ```text
 CONTRACT ID:
-ISI_CONTRACT_ID_BARU_DI_SINI
+CCSQGKZZWKHUETR7SG2NQEVDZQNG73KEC7JNNGHV3I7RONCBYQMBCKPW
 
 NETWORK:
 Stellar Testnet
 ```
 
-> Note: Replace `ISI_CONTRACT_ID_BARU_DI_SINI` with the latest deployed contract ID from Stellar Lab after uploading and deploying the final WASM file.
+> Note: Replace `CCSQGKZZWKHUETR7SG2NQEVDZQNG73KEC7JNNGHV3I7RONCBYQMBCKPW` with the latest deployed contract ID from Stellar Lab after uploading and deploying the final WASM file.
 
 ## Tech Stack
 
